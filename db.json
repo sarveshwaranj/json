@@ -1,0 +1,40 @@
+{
+  "event-ta": [
+    {
+      "indexno": "5295080",
+      "userid": "24890109740",
+      "username": "A. BALARAM",
+      "eventdatetime": "20/11/2019 07:16:22",
+      "entryexittype": "0",
+      "mastercontrollerid": "30",
+      "doorcontrollerid": "1",
+      "specialfunctionid": "0",
+      "leavedt": "",
+      "idatetime": "11/19/2019 10:02:24"
+    },
+    {
+      "indexno": "5295081",
+      "userid": "24890107561",
+      "username": "A.N.SHEKAR",
+      "eventdatetime": "20/11/2019 07:30:39",
+      "entryexittype": "0",
+      "mastercontrollerid": "29",
+      "doorcontrollerid": "1",
+      "specialfunctionid": "0",
+      "leavedt": "",
+      "idatetime": "11/19/2019 10:02:41"
+    },
+    {
+      "indexno": "5295082",
+      "userid": "24890109934",
+      "username": "A.NARSING RAO",
+      "eventdatetime": "20/11/2019 08:00:34",
+      "entryexittype": "0",
+      "mastercontrollerid": "1",
+      "doorcontrollerid": "1",
+      "specialfunctionid": "0",
+      "leavedt": "",
+      "idatetime": "11/19/2019 10:07:36"
+    }
+  ]
+}
